@@ -1,5 +1,5 @@
 body {
-  color: blue;
+  color: palegreen;
   background: white;
       margin: 0px;
   font-family: "Chakra Petch", sans-serif;
@@ -20,12 +20,10 @@ background: rgb (010, 101, 001);
 
 .chamada-texto {
     margin-right: 5%;
-  color: coral;
 }
 
 h1 {
     font-size: 40px;
-  color: black;
 }
 
 p {
